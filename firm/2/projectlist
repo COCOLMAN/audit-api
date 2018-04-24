@@ -3,7 +3,9 @@
     "page": 1,
     "next": true,
     "prev": false,
-    "view_by": ["All Client"]
+    "view_by": ["All Client"],
+    "sort_by": ["engagementType", "audit"],
+    "filter_by": ["All"]
   },
   "projectList": [
    {
