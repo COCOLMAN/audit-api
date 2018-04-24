@@ -8,9 +8,6 @@
     },
     "sort_by": {
       "engagementType": "audit"
-    },
-    "filter_by": {
-      "All": true
     }
   },
   "projectList": [
