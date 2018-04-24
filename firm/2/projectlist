@@ -1,26 +1,4 @@
 {
-  "info": {
-    "viewBy": {
-      "partner": [
-        "Ben Chung",
-        "Stephan Kim",
-        "Boseok In"
-      ],
-      "conc": [
-        "Kim Some One",
-        "Park Some One"
-      ],
-      "type": [
-        "Audit",
-        "SEC Audit",
-        "Review"
-      ],
-      "director": [
-        "Kim Some One",
-        "Park Some One"
-      ]
-    }
-  },
   "meta": {
     "page": 1,
     "next": true,
