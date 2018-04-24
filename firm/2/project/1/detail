@@ -1,0 +1,39 @@
+{
+  "projectName": ""XYZ Company:  2016 year-end audit",
+  "projectId": 1,
+  "EngagementType": "SEC Audit",
+  "startDate": "Feburary 1, 2018",
+  "endDate": "May 1, 2018",
+  "projectMainData": [
+    {
+      "completion": {
+        "prepared": "45%",
+        "reviewed": "35%",
+        "partnerReviewed": "25%",
+        "concurringPartnerReviewed": "10%"
+      },
+      "numOfWorkPaper": {
+        "totalNum": 255,
+        "prepared": 50,
+        "reviewed": 25,
+        "partnerReviewed": 10,
+        "concurringPartnerReviewed": 5
+      },
+      "comments": {
+        "total": 255,
+        "cleared": 5
+      },
+      "hours": {
+        "incurredPriorWeek": 62,
+        "budget": 820,
+        "totalIncurredToDate": 455
+      },
+      "feeAndRealization": {
+        "wipAccumulatedPriorWeek": "$6,240",
+        "total_fee": "$40,000",
+        "accumulatedWipToDate": "$34,200",
+        "overAndUnder": "$5,800"
+      }
+    }
+  ]
+}
