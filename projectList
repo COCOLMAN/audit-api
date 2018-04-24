@@ -33,6 +33,36 @@
     "projectId": 5,
     "userRole": "staff", 
     "accessType": "admin"    
-   }
+   },
+   {
+    "projectName": "XYZ Company:  2017 year-end audit",
+    "projectId": 6,
+    "userRole": "staff",
+    "accessType": "admin"
+   },
+   {
+    "projectName": "AYZ Company:  2017 year-end audit",
+    "projectId": 7,
+    "userRole": "staff",    
+    "accessType": "admin"
+   },
+   {
+    "projectName": "BCD Company:  2017 year-end audit",
+    "projectId": 8,
+    "userRole": "staff",    
+    "accessType": "admin"    
+   },
+   {
+    "projectName": "CCD Company:  2017 year-end audit",
+    "projectId": 9,
+    "userRole": "staff", 
+    "accessType": "admin"    
+   },
+   {
+    "projectName": "BCD Company:  2016 year-end audit",
+    "projectId": 10,
+    "userRole": "staff", 
+    "accessType": "admin"    
+   }   
   ]
 }
