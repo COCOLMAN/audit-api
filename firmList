@@ -2,15 +2,18 @@
   "user_belong_firms": [
     {
       "firm_name": "Benjamin&Young, LLC",
-      "firm_id": 1
+      "firm_id": 1,
+      "adminType": "super admin"
     },
     {
       "firm_name": "MCPA",
-      "firm_id": 2
+      "firm_id": 2,
+      "adminType": "group admin"
     },
     {
       "firm_name": "Colony",
-      "firm_id": 3
+      "firm_id": 3,
+      "adminType": "user admin"
     }
   ]
 }
