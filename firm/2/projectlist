@@ -3,6 +3,7 @@
     "page": 1,
     "next": true,
     "prev": false,
+    "view_by": ["All Client"]
   },
   "projectList": [
    {
