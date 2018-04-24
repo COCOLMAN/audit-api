@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "page": 1,
+    "next": true,
+    "prev": false,
+    "view_by": {
+      "allClient": true
+    },
+    "sort_by": {
+      "engagementType": "audit"
+    },
+    "filter_by": {
+      "All": true
+    }
+  },
+  "projectList": [
+   {
+    "projectName": "XYZ Company:  2016 year-end audit",
+    "projectId": 1,
+    "userRole": "staff",
+    "accessType": "admin"
+   },
+   {
+    "projectName": "AYZ Company:  2016 year-end audit",
+    "projectId": 2,
+    "userRole": "staff",    
+    "accessType": "admin"
+   },
+   {
+    "projectName": "BCD Company:  2016 year-end audit",
+    "projectId": 3,
+    "userRole": "staff",    
+    "accessType": "admin"    
+   },
+   {
+    "projectName": "CCD Company:  2016 year-end audit",
+    "projectId": 4,
+    "userRole": "staff", 
+    "accessType": "admin"    
+   },
+   {
+    "projectName": "BCD Company:  2016 year-end audit",
+    "projectId": 5,
+    "userRole": "staff", 
+    "accessType": "admin"    
+   },
+   {
+    "projectName": "XYZ Company:  2017 year-end audit",
+    "projectId": 6,
+    "userRole": "staff",
+    "accessType": "admin"
+   },
+   {
+    "projectName": "AYZ Company:  2017 year-end audit",
+    "projectId": 7,
+    "userRole": "staff",    
+    "accessType": "admin"
+   },
+   {
+    "projectName": "BCD Company:  2017 year-end audit",
+    "projectId": 8,
+    "userRole": "staff",    
+    "accessType": "admin"    
+   },
+   {
+    "projectName": "CCD Company:  2017 year-end audit",
+    "projectId": 9,
+    "userRole": "staff", 
+    "accessType": "admin"    
+   },
+   {
+    "projectName": "BCD Company:  2017 year-end audit",
+    "projectId": 10,
+    "userRole": "staff", 
+    "accessType": "admin"    
+   }   
+  ]
+}
