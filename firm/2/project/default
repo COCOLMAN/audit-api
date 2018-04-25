@@ -3,6 +3,7 @@
     "page": 1,
     "next": true,
     "prev": false,
+    "year": 2018,
     "view_by": {
       "allClient": true
     },
