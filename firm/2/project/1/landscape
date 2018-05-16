@@ -1,0 +1,169 @@
+{
+  "projectName": "GreenKraft, Inc. (2017) : Greenkraft Inc(Q1 2017 - March 2017)",
+  "projectId": 1,
+  "EngagementType: "SEC Audit",
+  "startDate": "Feburary 1, 2018",
+  "endDate": "May 1, 2018",
+  "data": {
+    "completion": {
+      "Planning": {
+        "Pre": "32%",
+        "Re": "38%",
+        "P.Re": "37%",
+        "CP.Re": "37%",
+        "Total WP": 65
+      },
+      "IC": {
+        "Pre": "16%",
+        "Re": "23%",
+        "P.Re": "19%",
+        "CP.Re": "19%",
+        "Total WP": 15
+      },
+      "ST": {
+        "Pre": "6%",
+        "Re": "8%",
+        "P.Re": "7%",
+        "CP.Re": "7%",
+        "Total WP": 155,
+      }
+      "FS": {
+        "Pre": "13%",
+        "Re": "15%",
+        "P.Re": "19%",
+        "CP.Re": "19%",
+        "Total WP": 20      
+      },
+      "Conc": {
+        "Pre": "32%",
+        "Re": "15%",
+        "P.Re": "19%",
+        "CP.Re": "19%",
+        "Total WP": 15
+      }
+    },
+    "wp": {
+      "Planning": {
+        "Pre": 50,
+        "Re": 25,
+        "P.Re": 10,
+        "CP.Re": 5,
+        "Total WP": 65
+      },
+      "IC": {
+        "Pre": 25,
+        "Re": 15,
+        "P.Re": 5,
+        "CP.Re": 2,
+        "Total WP": 65
+      },
+      "ST": {
+        "Pre": 10,
+        "Re": 5,
+        "P.Re": 2,
+        "CP.Re": 1,
+        "Total WP": 15
+      },
+      "FS": {
+        "Pre": 20,
+        "Re": 10,
+        "P.Re": 5,
+        "CP.Re": 2,
+        "Total WP": 20
+      },
+      "Conc": {
+        "Pre": 50,
+        "Re": 10,
+        "P.Re": 5,
+        "CP.Re": 3,
+        "Total WP": 15
+      },
+      "Total": {
+        "Pre": 155,
+        "Re": 65,
+        "P.Re": 27,
+        "CP.Re": 13,
+        "Total WP": 270
+      }
+    },
+    "comments":{
+      "Planning": {
+        "Total": 7,
+        "Cleared": 4,
+        "Open": 4
+      },
+      "IC": {
+        "Total": 5,
+        "Cleared": 2,
+        "Open": 2n
+      },
+      "ST": {
+        "Total": 10,
+        "Cleared": 5,
+        "Open": 5
+      },
+      "FS": {
+        "Total": 4,
+        "Cleared": 2,
+        "Open": 2
+      },
+      "Conc": {
+        "Total": 2,
+        "Cleared": 1,
+        "Open": 1
+      },
+      "Open": {
+        "Total": 28,
+        "Cleared": 14,
+        "Open": 14
+      }
+    },
+    "hours": {
+      "Planning": {
+        "Pre": 62,
+        "Re": 62,
+        "P.Re": 62,
+        "CP.Re": 62,
+        "Total": 248,
+        "Budget": 300,
+        "Under": 52
+      },
+      "IC": {
+        "Pre": 45,
+        "Re": 45,
+        "P.Re": 45,
+        "CP.Re": 45,
+        "Total": 180,
+        "Budget": 150,
+        "Under": -30
+      },
+      "ST": {
+        "Pre": 320,
+        "Re": 320,
+        "P.Re": 320,
+        "CP.Re": 320,
+        "Total": 1280,
+        "Budget": 1230,
+        "Under": -50
+      },
+      "FS": {
+        "Pre": 25,
+        "Re": 25,
+        "P.Re": 25,
+        "CP.Re": 25,
+        "Total": 100,
+        "Budget": 150,
+        "Under": 50
+      },
+      "Conc": {
+        "Pre": 5,
+        "Re": 5,
+        "P.Re": 5,
+        "CP.Re": 5,
+        "Total": 20,
+        "Budget": 30,
+        "Under": 10
+      }    
+    }
+  }
+}
